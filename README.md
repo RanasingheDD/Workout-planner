@@ -1,4 +1,5 @@
-# fitness3
+# Workout Planner
+
 
 A new Flutter project.
 
